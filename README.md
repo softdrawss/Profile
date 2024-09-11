@@ -8,6 +8,10 @@
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="40" height="40"/>
   <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/FFFFFF/unity.png" alt="Unity" width="40" height="40"/>
